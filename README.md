@@ -1,4 +1,4 @@
-# first_vuejs_project_backend_java
+# first_vuejs_project_backend_java_maven
 Restful API in java 8 for my first vuejs project
 
 Spring and maven project
